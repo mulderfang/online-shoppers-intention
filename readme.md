@@ -1,5 +1,4 @@
 # 電子商務顧客購買意願分析
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
   - 分析背景與資料介紹
   - 變數介紹
