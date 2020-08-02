@@ -13,3 +13,6 @@
 # 資料介紹
   - 此份數據的預測變數(Revenue)為二元資料，顯示顧客有無完成交易，FALSE（0）為沒有完成交易，TRUE（1）為有完成交易，目的為分析有無完成交易之顧客與各變數間的關係。
 數據一共有12,330筆資料與18個變數。其中10個數值型變數與8個類別型變數。蒐集一年內不同顧客的消費紀錄，並且避免特殊假期，節日，或用戶個人慶祝活動（如生日）。
+
+data:https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
+
